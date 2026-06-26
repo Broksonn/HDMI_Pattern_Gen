@@ -1,0 +1,19 @@
+# Logi i pliki tymczasowe Vivado
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+.Xil/
+
+# Wygenerowane foldery Vivado (bardzo ciężkie pliki budowania)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Ignoruj ewentualne pliki systemowe Windowsa
+Thumbs.db
+Desktop.ini
